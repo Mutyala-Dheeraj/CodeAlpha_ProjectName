@@ -1,0 +1,6 @@
+Portfolio Summary
+---------------------
+IPHONE -> Price: $180, Quantity: 2, Investment: $360
+TESLA -> Price: $250, Quantity: 3, Investment: $750
+
+Total Investment Value: $1110
